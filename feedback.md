@@ -1,0 +1,5 @@
+- Il manque la lib cstdlib
+- Pas de constante pour les limites et les entrées utilisateur
+- Ligne 23, faute d'orthographe
+- utilisez EXIT_SUCCESS à la fin du programme plutôt que return 0
+- Absence de commentaire dans votre code
